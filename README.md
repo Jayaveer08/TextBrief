@@ -2,6 +2,10 @@
 
 A simple Streamlit app for summarizing text using Hugging Face Transformers.
 
+## Demo
+
+[Try the app here!](https://textbrief.streamlit.app/)
+
 ## Setup
 
 1. Install dependencies:
